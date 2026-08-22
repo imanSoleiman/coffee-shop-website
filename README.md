@@ -104,7 +104,7 @@ JoyCoffee/
 
 ### Orders Management
 
-![Joy Coffee Orders Management](./OrdersAdmin.png)
+![Joy Coffee Orders Management](./ordersAdmin.png)
 
 ### Footer
 
